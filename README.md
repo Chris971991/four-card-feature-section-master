@@ -50,7 +50,7 @@ Users should be able to:
 
 ## Author
 
-- Website - Christopher Carruther (https://github.com/Chris971991)
+- Website - Christopher Carruthers (https://github.com/Chris971991)
 - Frontend Mentor - @Chris971991 (https://www.frontendmentor.io/profile/Chris971991)
 
 ## Acknowledgments
