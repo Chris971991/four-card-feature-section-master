@@ -46,7 +46,7 @@ Users should be able to:
 ### What I learned
 
 - How to manipulate the CSS grid to be responsive with @media breakpoints.
-- Using sass/scss functions with arguments.
+- Using sass/scss functions with props.
 
 ## Author
 
