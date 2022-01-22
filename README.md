@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Front Edn Mentor Solution](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-css-grid-G1MJl3qC4)
+- Solution URL: [Front End Mentor Solution](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-css-grid-G1MJl3qC4)
 - Live Site URL: [Hosted on Github](https://chris971991.github.io/four-card-feature-section-master/)
 
 ## My process
